@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+debug_shot.png
+*.png
+!README-assets/*.png
+.DS_Store
